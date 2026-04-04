@@ -60,7 +60,7 @@ If you're looking for expertise in:
 I’m open to leadership opportunities, collaborations, and impactful data initiatives.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://hariprakash-analytics.github.io/)
+### [👉 Check Out My Full Portfolio Website](https://hariprakash-analytics.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
