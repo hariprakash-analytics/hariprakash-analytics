@@ -37,7 +37,6 @@ I focus on building data products that deliver measurable business value — imp
 
 I also actively mentor teams, define data strategy, and establish best practices in data architecture and analytics engineering.
 
----
 
 ## 🏢 Current Role  
 
@@ -48,7 +47,6 @@ My work focuses on:
 - Multi-cloud data platforms  
 - Integrated analytics ecosystems  
 
----
 
 ## 🔍 Let’s Connect  
 
