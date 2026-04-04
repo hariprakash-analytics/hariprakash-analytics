@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Lead+Data+%26+Analytics+Engineer;Power+BI+%26+Tableau+Developer;10%2B+Years+Building+Scalable+Data+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+%26+Analytics+Engineer,+Power+BI+%26+Tableau+Developer;Turning+Data+into+Actionable+Insights;10%2B+Years+Experience+in+Data+Analytics+%26+Data+Engineering" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
