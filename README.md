@@ -13,7 +13,7 @@
   <a href="mailto:hariprakash.analytics@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## 👨‍💻 About Me
 I’m a Lead Data & Analytics Engineer with 10+ years of experience designing and delivering scalable, cloud-native data and analytics platforms across AWS, Azure, and Google Cloud Platform (GCP). I specialize in building end-to-end data solutions that transform raw data into trusted, actionable insights, enabling data-driven decision-making and sustainable business growth.
 
 I bring deep expertise across data engineering, analytics, and platform architecture, with a strong focus on delivering high-impact solutions across Supply Chain, Financial, Operational, Sales & Marketing, Customer & Product Analytics, Demand Forecasting, Inventory Optimization, Procurement, Manufacturing, and Enterprise IT analytics.
@@ -24,7 +24,7 @@ I am highly skilled in data modeling and performance optimization, specializing 
 
 In addition, I drive DataOps and automation practices, implementing CI/CD pipelines and orchestration using Jenkins, GitLab CI, Docker, and Kubernetes to streamline data workflows and improve delivery efficiency.
 
-## 🚀 Leadership & Impact  
+## 🏆 Leadership & Impact 
 
 Throughout my career, I have led enterprise-scale data transformation initiatives, including:
 
@@ -38,7 +38,7 @@ I focus on building data products that deliver measurable business value — imp
 I also actively mentor teams, define data strategy, and establish best practices in data architecture and analytics engineering.
 
 
-## 🏢 Current Role  
+## 💼 Current Role 
 
 Currently, I lead data engineering and analytics initiatives at **Sigma Soft Infotech Pvt Ltd**, delivering enterprise analytics transformations across multiple client engagements.  
 
