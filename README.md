@@ -40,7 +40,7 @@ I also actively mentor teams, define data strategy, and establish best practices
 
 ## 🏢 Current Role  
 
-Currently, I lead data engineering and analytics initiatives at **Sigma SoftWare**, delivering enterprise analytics transformations across multiple client engagements.  
+Currently, I lead data engineering and analytics initiatives at **Sigma Soft Infotech Pvt Ltd**, delivering enterprise analytics transformations across multiple client engagements.  
 
 My work focuses on:
 - Scalable BI solutions  
