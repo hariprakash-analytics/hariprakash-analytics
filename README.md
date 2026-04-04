@@ -44,14 +44,17 @@ If you're looking for expertise in modern data platforms, enterprise analytics, 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- Designing and optimizing scalable, cloud-native data platforms across AWS and Azure  
+- Building enterprise-grade BI (Power BI, Tableau) solutions and data models for strategic decision-making  
+- Implementing DataOps practices, automation, and CI/CD pipelines for data workflows  
+- Enabling real-time and near real-time analytics using modern data architectures  
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced data architecture patterns (Lakehouse, Data Mesh, Medallion Architecture)  
+- Real-time data processing and streaming analytics (Kafka, Spark Structured Streaming)  
+- Cloud-native data engineering and optimization techniques across AWS, Azure, and GCP  
+- AI/ML integration into analytics workflows and intelligent data products  
 
 ## 🛠️ Technical Skillset
 
