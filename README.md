@@ -41,7 +41,7 @@ In addition to technical leadership, I mentor teams, define data and BI strategy
 
 ## 💼 Current Role 
 
-Currently, I lead data engineering and analytics initiatives at **Sigma Soft Infotech Pvt Ltd**, delivering enterprise analytics transformations across multiple client engagements.  
+Currently, I lead data engineering and analytics initiatives at **Sigmasoft Infotech Pvt Ltd**, delivering enterprise analytics transformations across multiple client engagements.  
 
 My work focuses on:
 - Scalable BI solutions  
