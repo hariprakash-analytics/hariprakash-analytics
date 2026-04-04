@@ -24,22 +24,41 @@ I am highly skilled in data modeling and performance optimization, specializing 
 
 In addition, I drive DataOps and automation practices, implementing CI/CD pipelines and orchestration using Jenkins, GitLab CI, Docker, and Kubernetes to streamline data workflows and improve delivery efficiency.
 
-🚀 Leadership & Impact
+## 🚀 Leadership & Impact  
 
 Throughout my career, I have led enterprise-scale data transformation initiatives, including:
-Modernizing legacy data platforms into cloud-native architectures
-Migrating on-premises systems to multi-cloud environments
-Optimizing ETL/ELT workflows for performance and scalability
-Enabling real-time and near real-time analytics capabilities
 
-I focus on building data products that deliver measurable business value — improving data accessibility, governance, and decision-making across organizations. I also actively mentor teams, define data strategy, and establish best practices in data architecture and analytics engineering.
+- Modernizing legacy data platforms into cloud-native architectures  
+- Migrating on-premises systems to multi-cloud environments  
+- Optimizing ETL/ELT workflows for performance and scalability  
+- Enabling real-time and near real-time analytics capabilities  
 
-🏢 Current Role
+I focus on building data products that deliver measurable business value — improving data accessibility, governance, and decision-making across organizations.  
 
-Currently, I lead data engineering and analytics initiatives at Sigma SoftWare, delivering enterprise analytics transformations across multiple client engagements. My work focuses on building scalable BI solutions, multi-cloud data platforms, and integrated analytics ecosystems.
+I also actively mentor teams, define data strategy, and establish best practices in data architecture and analytics engineering.
 
-🔍 Let’s Connect
-If you're looking for expertise in modern data platforms, enterprise analytics, Power BI/Tableau implementations, or scalable data engineering solutions, I’m open to leadership opportunities, collaborations, and impactful data initiatives.
+---
+
+## 🏢 Current Role  
+
+Currently, I lead data engineering and analytics initiatives at **Sigma SoftWare**, delivering enterprise analytics transformations across multiple client engagements.  
+
+My work focuses on:
+- Scalable BI solutions  
+- Multi-cloud data platforms  
+- Integrated analytics ecosystems  
+
+---
+
+## 🔍 Let’s Connect  
+
+If you're looking for expertise in:
+- Modern data platforms  
+- Enterprise analytics  
+- Power BI / Tableau implementations  
+- Scalable data engineering solutions  
+
+I’m open to leadership opportunities, collaborations, and impactful data initiatives.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://hariprakash-analytics.github.io/)
