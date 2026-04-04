@@ -26,16 +26,17 @@ In addition, I drive DataOps and automation practices, implementing CI/CD pipeli
 
 ## 🏆 Leadership & Impact 
 
-Throughout my career, I have led enterprise-scale data transformation initiatives, including:
+Throughout my career , I have driven enterprise-scale Business Intelligence and data engineering transformations, including:
 
-- Modernizing legacy data platforms into cloud-native architectures  
-- Migrating on-premises systems to multi-cloud environments  
-- Optimizing ETL/ELT workflows for performance and scalability  
-- Enabling real-time and near real-time analytics capabilities  
+- Leading the design and delivery of enterprise BI solutions and dashboards using Power BI, Tableau, and Splunk for executive and operational reporting  
+- Building scalable data pipelines and ETL/ELT frameworks to support high-performance analytics and reporting systems  
+- Modernizing legacy reporting and data platforms into cloud-native architectures enabling self-service and real-time analytics  
+- Designing optimized data models, semantic layers, and KPI frameworks to support business-critical decision-making  
+- Integrating and transforming data from multiple sources to deliver unified, reliable, and real-time analytics insights  
 
-I focus on building data products that deliver measurable business value — improving data accessibility, governance, and decision-making across organizations.  
+I focus on delivering end-to-end data and BI solutions that drive measurable business value — improving data accessibility, performance, governance, and decision intelligence across organizations.
 
-I also actively mentor teams, define data strategy, and establish best practices in data architecture and analytics engineering.
+In addition to technical leadership, I mentor teams, define data and BI strategy, and establish best practices in data engineering, data modeling, visualization, and analytics engineering.
 
 
 ## 💼 Current Role 
